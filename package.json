@@ -1,0 +1,12 @@
+{
+  "name": "lamdafunction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "athena-express": "^6.0.4"
+  }
+}
